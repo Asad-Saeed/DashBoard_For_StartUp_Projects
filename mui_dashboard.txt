@@ -1,0 +1,18 @@
+npm
+install mui
+install mui icon
+install mui styled commonents
+install react google chart
+install react counter up
+
+
+firebase
+create a project 
+npm install firebase(command given)
+create a firebase-config.jsx file in src and paste code
+import export getfirebasestore
+contine 
+go to build > gor to firestore database > create database production mode > select origin asiia mumbai select kr lo
+go to rules and true allow read write
+then in your database here create a collection and theire name and fields as required 
+add some code from his given code
